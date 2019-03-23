@@ -10,4 +10,17 @@
 
 .container {
     border-color: lightgrey;
+<<<<<<< HEAD
 }
+=======
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+  }
+
+>>>>>>> 7443387906274daf9885e7dd0f9ad5280f8a3c62
