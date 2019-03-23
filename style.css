@@ -1,0 +1,13 @@
+#nytHead {
+    text-align: center;
+    background-color: darkblue;
+    color:white;
+}
+
+#contH {
+    background-color: lightgrey;
+}
+
+.container {
+    border-color: lightgrey;
+}
